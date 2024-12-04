@@ -4741,8 +4741,8 @@ __metadata:
   linkType: hard
 
 "@backstage/plugin-scaffolder-node@npm:^0.4.11":
-  version: 0.4.11
-  resolution: "@backstage/plugin-scaffolder-node@npm:0.4.11"
+  version: 0.4.12
+  resolution: "@backstage/plugin-scaffolder-node@npm:0.4.12"
   dependencies:
     "@backstage/backend-common": "npm:^0.25.0"
     "@backstage/backend-plugin-api": "npm:^1.0.0"
@@ -4761,7 +4761,7 @@ __metadata:
     winston: "npm:^3.2.1"
     zod: "npm:^3.22.4"
     zod-to-json-schema: "npm:^3.20.4"
-  checksum: 10c0/bf47f7d51a1b905f4bf53d7a8475110a325a8d3fc9ab28b239b139645c16f0ad04655ffee893cd022a25b680518a21edbbb0c2ffb8a4101f368c662e4e629059
+  checksum: 10c0/1c8a58897b1a536a152364444e66efa345da8050cff328e89cd43d309704538ae9a0d1e158bf6160047f6ea8b75acec1dcb99d8bd3df2be307a0651de45ed9bd
   languageName: node
   linkType: hard
 
